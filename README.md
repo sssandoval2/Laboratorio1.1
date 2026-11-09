@@ -25,5 +25,7 @@ Ejemplo: `curl -i -X POST -H "Content-Type: application/json" -d '{"nombre":"Lap
 Errores: `{"mensaje":"...","estado":404}`
 
 Asignatura: Programación Avanzada
+
 Autor: Steven Sebastián Sandoval Casillas
+
 NRC: 36759
