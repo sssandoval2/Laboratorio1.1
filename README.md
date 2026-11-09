@@ -3,7 +3,7 @@
 Desarrollo de una API REST con inyección de dependencias y manejo centralizado de excepciones.
 
 ## Requisitos
-Java 25 LTS (Maven Wrapper incluido).
+Java 25 LTS (Maven Wrapper).
 
 ## Ejecutar
 ```
