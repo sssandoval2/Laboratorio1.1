@@ -1,13 +1,13 @@
-# Laboratorio 1.1 – API REST de productos (Spring Boot)
+# Laboratorio 1.1
 
-Práctica 1.1 de Programación Avanzada (ESPE). API REST con inyección de dependencias y manejo centralizado de excepciones. Sin base de datos: los productos viven en memoria.
+Desarrollo de una API REST con inyección de dependencias y manejo centralizado de excepciones.
 
 ## Requisitos
 Java 25 LTS (Maven Wrapper incluido).
 
 ## Ejecutar
 ```
-./mvnw spring-boot:run        # Windows: mvnw.cmd spring-boot:run
+./mvnw spring-boot:run        
 ./mvnw test
 ```
 La API queda en http://localhost:8080
@@ -24,4 +24,6 @@ Ejemplo: `curl -i -X POST -H "Content-Type: application/json" -d '{"nombre":"Lap
 
 Errores: `{"mensaje":"...","estado":404}`
 
+Asignatura: Programación Avanzada
 Autor: Steven Sebastián Sandoval Casillas
+NRC: 36759
